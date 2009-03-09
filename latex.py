@@ -1,6 +1,15 @@
 # -*- coding: utf-8 -*-
 '''
-Some code taken from http://www.djangosnippets.org/snippets/102/
+No warranty, express or implied.
+We’ve done our best,
+to debug and test.
+Liability for damages denied.
+
+Permission is granted hereby,
+to copy, share, and modify.
+Use as is fit,
+free or for profit.
+On this notice these rights rely.
 '''
 
 from subprocess import call, PIPE
