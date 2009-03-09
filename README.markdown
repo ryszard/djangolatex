@@ -12,7 +12,7 @@ argument (to be able to set the `Content-Disposition` HTTP header).
 Authors
 -------
 
-Some code is taken from [http://www.djangosnippets.org/snippets/102/],
+Some code is taken from [this snippet](http://www.djangosnippets.org/snippets/102/),
 authored by [blizz](http://www.djangosnippets.org/users/blizz/).
 
 
